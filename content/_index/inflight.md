@@ -6,7 +6,7 @@ weight = 120
 background = "light"
 align = "left"
 
-title = "in-flight"
+title = "In-flight"
 subtitle= "Easily right align the item fragment even with an image"
 
 # Subtitle pre and post item

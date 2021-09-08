@@ -93,23 +93,23 @@
     {{- range .Params.buttons }}
     {{- $item := .Params.buttons -}}
     <div class="col-md-4 items-column">
-      <a href="{{ .url }}">
-      <div class="row image justify-content-center align-items-center">
-        
-      <span class="fa-stack fa-3x m-2" title="{{ .text | default $item.title }}">
-        <i class="fas fa-circle fa-stack-2x
-          {{- if eq $bg "primary" -}}
-            {{- print " text-dark" -}}
-          {{- else -}}
-            {{- print " text-primary" -}}
-          {{- end -}}
-        "></i>
-        <i class="{{ .icon }} fa-stack-1x fa-inverse"></i>
-        <span class="sr-only">{{ .text | default $item.title }}</span>
-      </span>
       
+      <div class="row image justify-content-center align-items-center">
+        <a href="{{ .url }}">
+        <span class="fa-stack fa-3x m-2" title="{{ .text | default $item.title }}">
+          <i class="fas fa-circle fa-stack-2x
+            {{- if eq $bg "primary" -}}
+              {{- print " text-dark" -}}
+            {{- else -}}
+              {{- print " text-primary" -}}
+            {{- end -}}
+          "></i>
+          <i class="{{ .icon }} fa-stack-1x fa-inverse"></i>
+          <span class="sr-only">{{ .text | default $item.title }}</span>
+        </span>
+        </a>
       </div>
-      </a>
+      
     </div>
     {{- end }}
   </div>

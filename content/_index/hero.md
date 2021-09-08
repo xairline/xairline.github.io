@@ -20,17 +20,17 @@ subtitle = "Build your own virtual airline"
 
 [[buttons]]
   title = "Download1"
-  url = "https://github.com/okkur/syna/releases"
+  url = "https://github.com/okkur/syna/releases/linux"
   color = "primary"
   icon = "fab fa-linux"
 [[buttons]]
   title = "Download2"
-  url = "https://github.com/okkur/syna/releases"
+  url = "https://github.com/okkur/syna/releases/apple"
   color = "primary"
   icon = "fab fa-apple"
 [[buttons]]
   title = "Download3"
-  url = "https://github.com/okkur/syna/releases"
+  url = "https://github.com/okkur/syna/releases/windows"
   color = "primary"
   icon = "fab fa-windows"
 
