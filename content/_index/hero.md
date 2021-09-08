@@ -6,8 +6,8 @@ weight = 50
 background = "light" # can influence the text color
 particles = true
 
-title = "Syna Theme"
-subtitle = "Showcase your next project"
+title = "X Airline"
+subtitle = "Build your own virtual airline"
 
 [header]
   image = "header.jpg"
@@ -17,18 +17,22 @@ subtitle = "Showcase your next project"
   width = "300px" # optional - will default to image width
   #height = "150px" # optional - will default to image height
 
-[[buttons]]
-  text = "Button"
-  url = "#"
-  color = "info" # primary, secondary, success, danger, warning, info, light, dark, link - default: primary
 
 [[buttons]]
-  text = "Download"
+  title = "Download1"
   url = "https://github.com/okkur/syna/releases"
   color = "primary"
-
+  icon = "fab fa-linux"
 [[buttons]]
-  text = "Button"
-  url = "#"
-  color = "success"
+  title = "Download2"
+  url = "https://github.com/okkur/syna/releases"
+  color = "primary"
+  icon = "fab fa-apple"
+[[buttons]]
+  title = "Download3"
+  url = "https://github.com/okkur/syna/releases"
+  color = "primary"
+  icon = "fab fa-windows"
+
+
 +++
