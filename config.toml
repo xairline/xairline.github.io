@@ -53,7 +53,7 @@ lastmod = ["lastmod", ":git", "date"]
     pro = false
 
   [params.colors]
-    primary = "#00838F"
+    primary = "#009988"
     secondary = "#868e96"
     success = "#008f54"
     info = "#00c9dc"
