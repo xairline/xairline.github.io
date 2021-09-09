@@ -16,7 +16,6 @@ subtitle= "Real-time events of your flight"
 [asset]
   image = "inflight.png"
 +++
-
 - Track key flight events real-time
 - Penalties for violations (over speed/exceed max G-force/exceed max VS)*
 - Simulate real world emergency (divert to nearby airport for medical emergency)*
