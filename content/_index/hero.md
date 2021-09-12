@@ -20,17 +20,17 @@ subtitle = "Build your own virtual airline"
 
 [[buttons]]
   title = "Download1"
-  url = "https://github.com/xairline/xairline/releases/download/latest/xairline_0.0.0_amd64.deb"
+  url = "https://github.com/xairline/xairline/releases/latest/download/xairline_0.0.0_amd64.deb"
   color = "primary"
   icon = "fab fa-linux"
 [[buttons]]
   title = "Download2"
-  url = "https://github.com/xairline/xairline/releases/download/latest/X.Airline-0.0.0.dmg"
+  url = "https://github.com/xairline/xairline/releases/latest/download/X.Airline-0.0.0.dmg"
   color = "primary"
   icon = "fab fa-apple"
 [[buttons]]
   title = "Download3"
-  url = "https://github.com/xairline/xairline/releases/download/latest/X.Airline.0.0.0.exe"
+  url = "https://github.com/xairline/xairline/releases/latest/download/X.Airline.0.0.0.exe"
   color = "primary"
   icon = "fab fa-windows"
 
