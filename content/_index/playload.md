@@ -6,13 +6,13 @@ weight = 150
 background = "secondary"
 align = "right"
 
-title = "Passenger/Cargo report"
-subtitle= "Coming soon*"
+title = "Passenger report"
+subtitle= "Feedback from your virtual passengers. You may get bonus or penalty based on some KPI (landing/on-time)"
 
 # Subtitle pre and post item
 #pre = "Awesome screenshot"
 #post = "Showcasing Syna"
 
 [asset]
-  image = "logo.png"
+  image = "pax-report.png"
 +++
