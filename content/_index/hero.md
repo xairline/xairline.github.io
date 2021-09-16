@@ -30,7 +30,7 @@ subtitle = "Build your own virtual airline"
   icon = "fab fa-apple"
 [[buttons]]
   title = "Download3"
-  url = "https://github.com/xairline/xairline/releases/latest/download/X.Airline.0.0.1.exe"
+  url = "https://github.com/xairline/xairline/releases/latest/download/X.Airline.Setup.0.0.1.exe"
   color = "primary"
   icon = "fab fa-windows"
 
