@@ -14,6 +14,6 @@ button_url = "https://www.buymeacoffee.com/di.zou"
   text = "get me drunk"
   icon = "fas fa-beer"
 [[features]]
-  text = "you can buy my beer monthly too ..."
+  text = "you can buy me beer monthly too ..."
   icon = "fas fa-beer"
 +++
