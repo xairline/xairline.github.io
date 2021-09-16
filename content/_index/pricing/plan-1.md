@@ -1,20 +1,19 @@
 +++
 weight = 10
 
-title = "Starting plan"
-subtitle = "starting at"
+title = "Buy Me"
+subtitle = "a beer"
 
-price = "Free"
+price = "Staring from $5"
 # highlight = true
 
-button_text = "Start for free"
-button_url = "#"
+button_text = "Buy me a beer"
+button_url = "https://www.buymeacoffee.com/di.zou"
 
 [[features]]
-  text = "**Basic** feature"
-  icon = "fas fa-check"
-
+  text = "get me drunk"
+  icon = "fas fa-beer"
 [[features]]
-  text = "**Email** support"
-  icon = "fas fa-check"
+  text = "you can buy my beer monthly too ..."
+  icon = "fas fa-beer"
 +++
