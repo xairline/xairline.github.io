@@ -7,13 +7,14 @@ background = "light"
 align = "left"
 
 title = "Fleet management"
-subtitle= "Coming soon*"
 
 # Subtitle pre and post item
 #pre = "Awesome screenshot"
 #post = "Showcasing Syna"
 
 [asset]
-  image = "logo.png"
+  image = "fleet.png"
 +++
 
+- Buy an airplane so you can fly long haul!
+- Sell you airplane to other airlines
